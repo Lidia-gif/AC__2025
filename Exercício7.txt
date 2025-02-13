@@ -1,0 +1,18 @@
+Exercício7
+
+
+1- Que tipo de ataque Ana sofreu?
+
+R: A Ana sofreu um ataque de fugas de dados .
+
+2- que sinais poderiam indicar que o e-mail era falso?
+
+R: Ela não sabia exatamente que o e-mail era do seu banco, e especificaram para ela carregar no link  e só por ela ver o logótipo do banco não pensou duas vezes.
+
+3- O que é que a Ana deveria ter feito antes de clicar no link e inserir os seus dados?
+
+R: Ligar ao banco para o se é realmente verdade e não inserir os seus dados privados sem ter certeza que é uma fraude ou não.
+
+4- Que medidas ela pode tomar agora para minimizar os danos?
+
+R:  Ir ao banco rapidamente e avisar as autoridades antes que seja tarde , não voltar a fazer isso nunca mais nem clicar em links duvidosos.
